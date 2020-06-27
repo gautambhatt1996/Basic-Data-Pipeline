@@ -1,0 +1,2 @@
+.idea-- used to add preferences and changes that we are making in our pycharm
+__pycache__-- byte code of our source code

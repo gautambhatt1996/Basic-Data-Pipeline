@@ -1,0 +1,14 @@
+pip install pandas
+pip freeze
+pip install mysql-connector-python
+pip install psycopg2-binary( for setting up connection with posgres sql)
+
+#To initialise version controlling
+
+git init
+
+ls -altr
+
+Note- All the non source files should go in git ignore
+vi .gitignore
+
