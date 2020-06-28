@@ -1,3 +1,4 @@
+mysql
 pandas==1.0.5
 mysql-connector-python
 psycopg2-binary
