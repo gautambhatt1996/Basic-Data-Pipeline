@@ -16,9 +16,5 @@ def main():
         data,column_names=read_table(db_details,table_name)
         print(f'loading data for {table_name}')
 
-
-
-
-
 if __name__ == '__main__':
     main()
